@@ -54,3 +54,11 @@
 ### Connect with Me
 
 <p align="left"> <a href="https://porbo.cyou" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=todoist&logoColor=black" /> </a> <a href="mailto:miporbo@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://facebook.com/miporbo" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://instagram.com/miporbo" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+
+<div align="center">
+
+###  "Code is logic. Logic is power. Still learning both."
+
+</div>
+
+
