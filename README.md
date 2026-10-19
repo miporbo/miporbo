@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Majharul 👋</h1>
+<h3 align="center">Computer Technology Student · Python Enthusiast</h3>
 
-<!--
-**miporbo/miporbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Learning+Python+one+project+at+a+time;Automation+%7C+Scripting+%7C+Backend+soon;Sci-Fi+reader+%7C+Gamer+%7C+Builder" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Computer Technology student
+- Learning **Python** — basics done, now building small projects to go deeper
+- Interested in **Automation** and everything Python can do
+- Love playing games in free time
+- Enjoy reading — mostly **Science Fiction**
+- Portfolio: [porbo.cyou](https://porbo.cyou)
+
+---
+
+### Currently Learning: Python
+
+```python
+class Me:
+    def __init__(self):
+        self.name = "Md. Majharul Islam Porbo"
+        self.field = "Computer Technology"
+        self.language = "Python"
+        self.status = "Building small projects to level up"
+        self.interests = ["Automation", "Backend (future)", "Problem Solving"]
+
+    def hobbies(self):
+        return ["Gaming", "Reading Sci-Fi", "Learning new tech"]
+
+
+me = Me()
+print(f"{me.name} is currently: {me.status}")
+```
+---
+
+### Tech Stack
+
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
+
+---
+
+### GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=miporbo&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=miporbo&theme=tokyonight&hide_border=true" width="48%" /> </p>
+
+---
+
+### Connect with Me
+
+<p align="left"> <a href="https://porbo.cyou" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=todoist&logoColor=black" /> </a> <a href="mailto:miporbo@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://facebook.com/miporbo" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://instagram.com/miporbo" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
