@@ -18,25 +18,26 @@
 
 ---
 
-### Currently Learning: Python
+<br/>
 
-```python
-class Me:
-    def __init__(self):
-        self.name = "Md. Majharul Islam Porbo"
-        self.field = "Computer Technology"
-        self.language = "Python"
-        self.status = "Building small projects to level up"
-        self.interests = ["Automation", "Backend (future)", "Problem Solving"]
+## Current Progress
 
-    def hobbies(self):
-        return ["Gaming", "Reading Sci-Fi", "Learning new tech"]
+**Python** `████████░░░░░░░░░░░░` 40%  
+**HTML/CSS** `██████████████░░░░░░` 70%  
+**Automation** `████░░░░░░░░░░░░░░░░` 20%  
+**Git/GitHub** `████████████░░░░░░░░` 60%  
 
+<br/>
 
-me = Me()
-print(f"{me.name} is currently: {me.status}")
-```
----
+##  Currently Focused On
+
+| Status | Task |
+|--------|------|
+|  In Progress | Building small Python projects |
+|  Up Next | Learning File Handling & APIs |
+|  Goal | Automate real-world tasks with Python |
+
+<br/>
 
 ### Tech Stack
 
